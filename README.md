@@ -9,9 +9,9 @@ Different categories of products are stored in different data structures.
 
 **-- Stack Categories --**
 
-1.Bread/Bakery – sandwich loaves, dinner rolls, tortillas, bagels
-2. Dairy – cheeses, eggs, milk, yoghurt, butter
-3. Canned/Jarred Goods – vegetables, spaghetti sauce, ketchup 
+1.Bread/Bakery – sandwich loaves, dinner rolls, tortillas, bagels  
+2. Dairy – cheeses, eggs, milk, yoghurt, butter  
+3. Canned/Jarred Goods – vegetables, spaghetti sauce, ketchup   
 4.  Beverages – coffee/tea, juice, soda
    
 
