@@ -9,10 +9,11 @@ Different categories of products are stored in different data structures.
 
 **-- Stack Categories --**
 
-1. Beverages – coffee/tea, juice, soda
-2. Bread/Bakery – sandwich loaves, dinner rolls, tortillas, bagels
-3. Canned/Jarred Goods – vegetables, spaghetti sauce, ketchup
-4. Dairy – cheeses, eggs, milk, yoghurt, butter
+1.Bread/Bakery – sandwich loaves, dinner rolls, tortillas, bagels
+2. Dairy – cheeses, eggs, milk, yoghurt, butter
+3. Canned/Jarred Goods – vegetables, spaghetti sauce, ketchup 
+4.  Beverages – coffee/tea, juice, soda
+   
 
 **-- Queue Categories --**
 
@@ -174,8 +175,6 @@ SuperStore
 |   NBC_Superstore.png
 ```
 
-## Project Setup
-
 ### Requirements
 
 - MySQL Server
@@ -192,24 +191,5 @@ SuperStore
 4. Install the E(fx)clipse plugin from the eclipse marketplace.
 5. Setup your Eclipse project for JavaFX by following [Getting Stared with JavaFX](https://openjfx.io/openjfx-docs/#IDE-Eclipse). You can also check out how to set up the project on other IDEs. (We used Eclipse for development and so all intructions relate to Eclipse).
 
-### Run
 
-Run the projet using the run configurations created in step 5 of [Installation](#installation)
-
-## Authors and Acknowledgement
-
-- Joshua Delali Agbozo
-- Prince Kwabena Boateng
-- Solomon Yaw Nnyamile
-- Francis Echesi
-- Nana Krofua Mensah Onumah
-- Yaa Dufie Quansah
-- Lawrence Yirenkyi-Boafo Jnr
-
-## License
-
-[MIT License](https://opensource.org/licenses/MIT)
-
-## Project Status
-
-This project is an end of semester deliverable for DCIT 308 and may no longer be manitained by the authors post-grading. Open to forks and volunteers.
+This project is an individual project deliverable for DCIT 308
